@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Growth & Marketing Workflows
+# AI-Powered Growth & Marketing Workflows
 
 This repository showcases practical applications of AI, automation, and content systems applied to B2B growth marketing.
 
@@ -6,7 +6,7 @@ My focus is on building scalable, execution-driven marketing processes using too
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m a Growth Marketing professional with a strong focus on execution, combining content, automation, and AI to generate demand and optimize marketing performance.
 
@@ -19,31 +19,31 @@ I specialize in:
 
 ---
 
-## ⚙️ Project 1: AI Content Generation System (Claude + Skills)
+## Project 1: AI Content Generation System (Claude + Skills)
 
-### 📌 Overview
+### Overview
 
 A scalable content generation system using Claude and custom “skills” to produce high-quality content in batches.
 
-### 🎯 Objective
+### Objective
 
 To accelerate content production while maintaining quality and consistency across formats (LinkedIn posts, blog articles, email content).
 
-### 🛠️ How It Works
+### How It Works
 
 1. Define content goals and topics
 2. Use structured prompts and reusable “skills” in Claude
 3. Generate content in batches
 4. Edit and optimize outputs for distribution
 
-### 💡 Key Features
+### Key Features
 
 * Batch content generation
 * Reusable prompt structures
 * Tone and style consistency
 * Adaptable for multiple formats
 
-### 📈 Impact
+### Impact
 
 * Significant increase in content production speed
 * Scalable content workflows
@@ -51,17 +51,17 @@ To accelerate content production while maintaining quality and consistency acros
 
 ---
 
-## 🤖 Project 2: LLM Brand Visibility Analyzer (n8n Workflow)
+## Project 2: LLM Brand Visibility Analyzer (n8n Workflow)
 
-### 📌 Overview
+### Overview
 
 An automated workflow built with n8n to evaluate how brands appear across different LLMs (ChatGPT, Perplexity, Gemini).
 
-### 🎯 Objective
+### Objective
 
 To help brands understand their visibility and positioning in AI-generated answers, based on real user-like prompts.
 
-### 🔄 Workflow Logic
+### Workflow Logic
 
 **Input:**
 
@@ -85,21 +85,21 @@ To help brands understand their visibility and positioning in AI-generated answe
 * Visibility score
 * Insights on positioning in AI-generated content
 
-### 🧩 Tools Used
+### Tools Used
 
 * n8n (automation workflows)
 * LLM APIs (multi-model evaluation)
 * Prompt engineering
 * Data structuring and output visualization
 
-### 💡 Key Features
+### Key Features
 
 * Multi-LLM comparison
 * Automated prompt generation
 * Brand detection within responses
 * Scalable evaluation framework
 
-### 📈 Use Case
+### Use Case
 
 Allows companies to:
 
@@ -109,7 +109,7 @@ Allows companies to:
 
 ---
 
-## 🔧 Tools & Stack
+## Tools & Stack
 
 * LLMs: Claude, ChatGPT
 * Automation: n8n
@@ -119,7 +119,7 @@ Allows companies to:
 
 ---
 
-## 🚀 What I’m Exploring Next
+## What I’m Exploring Next
 
 * Advanced AI agents and autonomous workflows
 * Deeper integrations with APIs and data pipelines
